@@ -1,0 +1,5 @@
+---
+chartRegistry: https://raw.githubusercontent.com/supabase-community/supabase-kubernetes/main/charts
+chartName: supabase
+chartVersion: 4.11.0
+artifactName: supabase
